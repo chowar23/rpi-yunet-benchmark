@@ -45,7 +45,7 @@ The model was tested at four different resolutions:
 </p>
 
 ## Maximum CPU Frequency (w/o Overclocking)
-Except for [CPU Frequency vs Inference Time](#cou-frequency-vs-inference-time), none of the Raspberry Pi's were overclocked and the max allowed CPU frequency was used for each board (listed in the table below).
+Except for [CPU Frequency vs Inference Time](#cpu-frequency-vs-inference-time), none of the Raspberry Pi's were overclocked and the max allowed CPU frequency was used for each board (listed in the table below).
 
 | Raspberry Pi         | CPU Freq. [MHz] |
 |:--------------------:|:---------------:|
