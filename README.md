@@ -59,7 +59,7 @@ Except for [CPU Frequency vs Inference Time](#cou-frequency-vs-inference-time), 
 - Max # of CPUs: 4
 
 <p align="center">
-    <img src="data/rpi_yunet_resolution.jpg" width="1200"/>
+    <img src="data/rpi_yunet_resolution.jpg" width="1000"/>
 </p>
 
 ## CPU Frequency vs Inference Time
@@ -67,7 +67,7 @@ Except for [CPU Frequency vs Inference Time](#cou-frequency-vs-inference-time), 
 - Max # of CPUs: 4
 
 <p align="center">
-    <img src="data/rpi_yunet_cpu_freq.jpg" width="1200"/>
+    <img src="data/rpi_yunet_cpu_freq.jpg" width="1000"/>
 </p>
 
 ## Number of CPU Cores vs Inference Time
@@ -75,5 +75,5 @@ Except for [CPU Frequency vs Inference Time](#cou-frequency-vs-inference-time), 
 - Resolution: 480x640
 
 <p align="center">
-    <img src="data/rpi_yunet_cpu_num.jpg" width="800"/>
+    <img src="data/rpi_yunet_cpu_num.jpg" width="1000"/>
 </p>
